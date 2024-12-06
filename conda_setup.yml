@@ -1,0 +1,5 @@
+name: portfolio_ai
+dependencies:
+  # python related packages
+  - python==3.10
+  - pip
